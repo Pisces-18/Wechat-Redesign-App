@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327931004745",
+    "project_id": "wechate-redesign-app",
+    "storage_bucket": "wechate-redesign-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327931004745:android:8a2585cdb474996b52bc98",
+        "android_client_info": {
+          "package_name": "com.example.wechat_redesign_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327931004745-0u88eb4bn137ckgk981bvr82jigc23et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB21rX2NyMcBGJpxU0wm2wb3X7y6XrbQdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327931004745-0u88eb4bn137ckgk981bvr82jigc23et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
